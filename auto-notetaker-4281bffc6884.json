@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "auto-notetaker",
+  "private_key_id": "4281bffc6884b6ec638072e3db03965e3b4fe23b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCGx4An/ikvJ0Cq\namUhMcBH0iusZR+LcCk23TU81D/JG935IstVS3sjiA1AJ9m1aaXV/EBBaKKPw6Eh\njlbgEhYtO15UR/sQylDpyeT9bpiOpX6MxKmgqOTftWDMx1aZuumJzzI1AlGHatRN\n3JQRj4BGTs3EiRyWM0+LIFKqi1Ex9wpRmSah11bFjODhsxi7Bs9oytwtwZoyT8/9\n+xwTmBe5OJIuOkcdHHD7s5b6b7A2upnVDLnfBTnOTQcNvZbs/LVsuYiuGmVoLlIQ\nkqQ3tB0FGszKZjKjMCI5WKrgsLSLDb28pyToI5LlidyoamMM4T1lZJP0PVp+3mjF\nhhxOKBrtAgMBAAECggEAEPk/+Qlnq2IQoUWb7dXDpuffiysDEX7zGc86/KmoTM3/\nIviQTfIfFGb2cD10jAW9lljZyMMCMgPLn5u68iYk99ZRt2CHTGKGVSMRfR84BELw\nUI8V479Rb6D6i1+RVvP0pF/dLVLY7Kp2CUY9uYZue6xB+r3fxUS6AEX2UzcPZzDM\nKQsFyCi7q2rJIPQ8320SdZZJDk16QUucGisFdaofzBf0YSzqu7ve0xP+3rXZG2tY\nNor7jeVD+hDzQvQLiz+Wse0DgUnXjsqQKWkyvUTN7dlQ8jxPHRpdRLjiVms2nIBT\n3a8zSfEuUyqYQ+PCp1VKwT3srFW1SiCbqgzM6tqqQQKBgQC6C7AmpXyY741a7Y84\nZiGn0rL/eog8EinzC2Zp4kQ5IU5ViuNsXMLnkQ5ne+YXLm39mAK68b3wfzFltViq\ncvzQ9YVxk26IUN4n0qgGkpjpyQ6XhPctTH7QXsREuQYvaEo3T7eYDyPI9tpiY/Dy\nI0iezfW4bBWoXRb8EhjbyqOxIQKBgQC5dQj38lnY7LwvAVOZ/sMh48SfiBQFcGix\nVDAed7/bXGKheILLCVhrGVLqBma9fBpvm7Z6qHT+fEFyDBEpemoI7QQAFIDw0FeY\nVohtJpIJQ3v0Ji0NVAqXUGTBPi7WmH3BkymNlm/0Op4wCz84dVh5KxWnpcut+xKh\n1A7SQi1UTQKBgQCuVHlxHSxNmlrYUzYa4Qi0WyjDYCv8LgEE7y++E/ldlynx2j0U\nsy8nEbNvoJeQLT9/m0sjpZYXnvfImE9HGIxxuT6bmEzAixZANpKf5gpHNtDnhf6f\ngchqtAIxazaygYTZo2cjozwi+bzU6VVDb3CC7fdMImuA4gnBlauZeJ4+QQKBgGxI\nWkEy/qS6rLGhS6fZaSOLco1XDaGTXX1UU3gmoR26VlhDHdLglQCLW68Kp8gxAtpx\nh10cqJrCABBP3WFjeS/W+4P0dMimTM7Ej4lzgMbp4SDPfXSPwlNQ/FMcNIrVpG92\ntkdWM+3cn+obVwFm+o5cypsFIeRmeR2FzFWVkBPtAoGAInw/y+WO50CatmD/wVvO\nRaBc5nGvY1ANfEJt3FmCDqQpdEDmZIUV9UcelvSMAKZmBHSl6hsmNhIOTC2Uzaye\nG/0cNuG8qZDqG7Iz4kG7JYyZmSBTunrQeDMrDoSX2xS6pPbo25rEMaCwTAaT6TBZ\nkjj3sFx6ZvOMh/QNC6eXSU8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account@auto-notetaker.iam.gserviceaccount.com",
+  "client_id": "106437537129909098543",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account%40auto-notetaker.iam.gserviceaccount.com"
+}
